@@ -16,3 +16,5 @@ Key Features:
 📲 Cross-platform compatibility, available on iOS, Android, and web.
 
 Whether you're balancing your budget, solving complex equations, or simply need a quick calculation, the Calculator App is your reliable companion. Experience convenience, efficiency, and versatility in one app. Download now and add a touch of mathematical magic to your device! ✨🧙‍♂️
+
+![Calculator App](https://github.com/Praharshkumar/Calculator_Apps/assets/80599610/36c319a7-c957-47b1-aa28-bb241afc285c)
